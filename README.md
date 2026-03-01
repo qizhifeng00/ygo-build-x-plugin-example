@@ -36,16 +36,6 @@ bun run build
 - `dist/index.js` - 插件主文件
 - `dist/index.css` - 样式文件
 
-## 发布到 GitHub
-
-1. 在 GitHub 创建新仓库
-2. 推送代码到仓库（包含 `dist/` 目录）
-3. 提交并推送：
-   ```bash
-   git add .
-   git commit -m "Build plugin"
-   git push
-   ```
 
 ## 在 YGO Build X 中安装
 
