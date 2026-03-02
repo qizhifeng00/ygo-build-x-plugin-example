@@ -15,7 +15,7 @@ export default definePlugin({
     icon: '📊',
     keywords: ['statistics', 'deck', 'analysis'],
     type: 'calculator',
-    permissions: ['cards.read', 'deck.read', 'ui.sidebar'],
+    permissions: ['cards.read', 'deck.read', 'ui.sidebar', 'ui.notify'],
     displayMode: 'sidebar',
   },
 

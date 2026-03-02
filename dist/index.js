@@ -119,7 +119,7 @@ const x = { class: "deck-stats-plugin" }, B = {
     icon: "📊",
     keywords: ["statistics", "deck", "analysis"],
     type: "calculator",
-    permissions: ["cards.read", "deck.read", "ui.sidebar"],
+    permissions: ["cards.read", "deck.read", "ui.sidebar", "ui.notify"],
     displayMode: "sidebar"
   },
   setup() {
